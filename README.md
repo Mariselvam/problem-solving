@@ -1,3 +1,3 @@
 # Learnings from my problem solving practice sessions
 
-[a relative link](linkedlist/README.md)
+[LinkedList releated problems from LeetCode](linkedlist/README.md)
